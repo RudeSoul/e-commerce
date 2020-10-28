@@ -440,7 +440,7 @@ img {
 }
 
 .page-header__bottomline {
-  background-color: #f8f8f8
+  background-color: #2c252d
 }
 
 .page-header__bottomline .logo {
@@ -448,7 +448,7 @@ img {
 }
 
 .page-header__bottomline .logo__link {
-  margin-top: 38px;
+  margin-top: 24px;
   display: block
 }
 
@@ -488,7 +488,7 @@ img {
   padding-top: 45px;
   padding-bottom: 53px;
   font-size: 13px;
-  color: #222;
+  color: #ddd;
   text-transform: uppercase;
   text-decoration: none;
   -webkit-transition: color .3s;
@@ -518,7 +518,7 @@ img {
   padding: 30px;
   padding-top: 10px;
   padding-left: 27px;
-  background-color: #f8f8f8;
+  background-color: #2c252d;
   box-shadow: 0 17px 24px rgba(0, 0, 0, .2);
   z-index: 1
 }
@@ -542,7 +542,7 @@ img {
   margin-bottom: 30px;
   font-size: 12px;
   font-weight: 700;
-  color: #575153;
+  color: rgb(195, 190, 190);
   text-transform: uppercase
 }
 
@@ -567,7 +567,7 @@ img {
 }
 
 .page-header .dropdown__link:hover {
-  color: #262626
+  color: rgb(0, 160, 160);
 }
 
 .page-header .dropdown__banner {
@@ -591,7 +591,7 @@ img {
 
 .page-footer .footer-nav {
   padding: 60px 0 55px;
-  background-color: #f8f8f8
+  background-color: #2c252d
 }
 
 .page-footer .footer-nav__col {
@@ -641,7 +641,7 @@ img {
 }
 
 .page-footer .footer-nav__col .phone__number:hover {
-  color: #2b2b2b
+  color: rgb(0, 160, 160)
 }
 
 .page-footer .footer-nav__col .email {
@@ -658,12 +658,12 @@ img {
 }
 
 .page-footer .footer-nav__col .email__addr:hover {
-  color: #2b2b2b
+  color: rgb(0, 160, 160)
 }
 
 .page-footer .footer-nav__heading {
   margin-bottom: 23px;
-  color: #575153;
+  color: rgb(195, 190, 190);
   font-size: 13px;
   font-weight: 700;
   text-transform: uppercase
@@ -690,12 +690,12 @@ img {
 }
 
 .page-footer .footer-nav__link:hover {
-  color: #2b2b2b
+  color: rgb(0, 160, 160);
 }
 
 .page-footer .banners {
   padding-bottom: 56px;
-  background-color: #f8f8f8
+  background-color: #2c252d
 }
 
 .page-footer .banners .banner-award {
@@ -915,7 +915,7 @@ img {
   font-size: 14px;
   font-family: Roboto;
   border: 1.5px solid gray;
-  background-color: #f8f8f8;
+  background-color: #2c252d;
   position: relative;
   line-height: 40px;
   float: right;
