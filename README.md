@@ -17,9 +17,3 @@ Database Configuration
 - Open Your browser put inside URL: "http://localhost/ecommerce-website/”
 - To Login as admin : ”http://localhost/ecommerce-website/admin_area”
 ```
-
-
-## Authors & Licence
-
-* **Yasser Dalouzi** - *eCommerce Website* - (https://github.com/yvsser1)
-* This project is open-source feel free to use it as you wish
